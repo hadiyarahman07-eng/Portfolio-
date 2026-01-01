@@ -3,7 +3,7 @@
 
 
 
-## Student Details
+## Details
 
 - **Name:** Hadiya Rahman O  
 - **Roll Number:** 25111028  
