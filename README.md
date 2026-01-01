@@ -10,5 +10,5 @@
 - **Branch:** Biomedical Engineering  
 
 ---
-![Profile Image](Screenshot_20260101-234833 (1).png)
+![Profile Image](Screenshot_20260101-234833.png)
 
